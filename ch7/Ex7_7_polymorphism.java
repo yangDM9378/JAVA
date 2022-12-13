@@ -21,7 +21,7 @@ public class Ex7_7_polymorphism {
     }
 }
 
-class Car {
+class Car1 {
     String color;
     int door;
     void drive() {
@@ -33,7 +33,7 @@ class Car {
     }
 }
 
-class FireEngine extends Car {
+class FireEngine extends Car1 {
     void water() {
         System.out.println("water");
     }

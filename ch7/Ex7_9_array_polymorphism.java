@@ -10,8 +10,8 @@ class Product2 {
     Product2() {}
 }
 
-class Tv2 extends Product2 {
-    Tv2() {
+class Tv3 extends Product2 {
+    Tv3() {
         super(100);
     }
 
@@ -65,7 +65,7 @@ class Buyer2 {
 class Ex7_9_array_polymorphism {
     public static void main(String[] args) {
         Buyer2 b = new Buyer2();
-        b.buy(new Tv2());
+        b.buy(new Tv3());
         b.buy(new Computer2());
         b.buy(new Audio2());
         b.summary();

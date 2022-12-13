@@ -8,8 +8,8 @@ class Product {
     }
 }
 
-class Tv1 extends Product {
-    Tv1() {
+class Tv2 extends Product {
+    Tv2() {
         super(100);
     }
 
@@ -41,9 +41,9 @@ class Ex7_8_param_polymorphism {
     public static void main(String[] args) {
         Buyer b = new Buyer();
 
-        Product p = new Tv1();
+        Product p = new Tv2();
         b.buy(p);
-//        b.buy(new Tv1());
+//        b.buy(new Tv2());
         b.buy(new Computer());
     }
 }

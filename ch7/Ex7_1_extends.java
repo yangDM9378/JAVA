@@ -10,7 +10,7 @@ class Ex7_1_extends {
     }
 }
 
-class Tv {
+class Tv1 {
     boolean power;
     int channel;
 
@@ -19,7 +19,7 @@ class Tv {
     void channelDown() { --channel; }
 }
 
-class SmartTv extends Tv {
+class SmartTv extends Tv1 {
     boolean caption;
     void displayCaption(String text) {
         if (caption) {
