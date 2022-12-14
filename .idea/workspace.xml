@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c58d8fb5-97c3-4697-8755-baee1b92eb07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/Ex7_1_extends.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/Ex7_1_extends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/Ex7_7_polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/Ex7_7_polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/Ex7_8_param_polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/Ex7_8_param_polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/Ex7_9_array_polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/Ex7_9_array_polymorphism.java" afterDir="false" />
-    </list>
+    <list default="true" id="c58d8fb5-97c3-4697-8755-baee1b92eb07" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +93,7 @@
       <workItem from="1670759810598" duration="29000" />
       <workItem from="1670804518299" duration="7949000" />
       <workItem from="1670889033197" duration="174000" />
+      <workItem from="1670998271410" duration="30000" />
     </task>
     <servers />
   </component>
